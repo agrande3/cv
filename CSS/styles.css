@@ -36,10 +36,15 @@ hr {
   border-color: #c7f0db;
   border-width: 5px;
 }
+
+.hr-fix {
+  margin-top: 200px;
+}
+
 .top-container {
   background-color: #8bbabb;
   position: relative;
-  padding-top: 100px;
+  padding-top: 200px;
 }
 
 .bottom-container {
@@ -71,7 +76,7 @@ a {
 }
 
 .skill-row {
-  margin: 50px auto;
+  margin: 100px auto;
   width: 50%;
   text-align: left;
   line-height: 2;
